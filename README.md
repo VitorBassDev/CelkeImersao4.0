@@ -14,6 +14,7 @@
 > Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento, etc)
 
 ### Tópicos 
+:small_blue_diamond: [Bibliotecas](#bibliotecas)
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
@@ -28,6 +29,11 @@
 ... 
 
 Insira os tópicos do README em links para facilitar a navegação do leitor
+## bibliotecas
+
+:heavy_check_mark: Express 
+:heavy_check_mark: Nodemon
+
 
 ## Descrição do projeto 
 
