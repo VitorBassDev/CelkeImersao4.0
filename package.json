@@ -1,0 +1,27 @@
+{
+  "name": "celkeimersao4",
+  "version": "1.0.0",
+  "description": "Imersão FullStack 4.0 - Celke",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorBassDev/CelkeImersao4.0.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "react",
+    "react",
+    "native",
+    "vscode"
+  ],
+  "author": "Vìtor Guedes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VitorBassDev/CelkeImersao4.0/issues"
+  },
+  "homepage": "https://github.com/VitorBassDev/CelkeImersao4.0#readme"
+}
