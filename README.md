@@ -31,9 +31,22 @@
 Insira os tópicos do README em links para facilitar a navegação do leitor
 ## bibliotecas
 
-:heavy_check_mark: Express 
-:heavy_check_mark: Nodemon
+:heavy_check_mark: Express
+```
+$ npm install express
+```
 
+:heavy_check_mark: Nodemon
+$ npm install nodemon -d
+
+:heavy_check_mark: Dotenv
+$ npm install --save dotenv
+
+:heavy_check_mark: Mongoose
+$ npm install --save mongoose
+
+:heavy_check_mark: MongoDB
+$ npm install --save mongodb
 
 ## Descrição do projeto 
 
